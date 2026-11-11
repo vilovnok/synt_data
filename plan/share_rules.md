@@ -1,31 +1,32 @@
-# General Rules
+# Общие правила
 
-## Communication
+## Взаимодействие
 
-- Always confirm the current state before making changes.
-- Ask clarifying questions when requirements are unclear.
-- Provide clear explanations of what you're doing and why.
+- Всегда подтверждай текущее состояние перед внесением изменений.
+- Задавай уточняющие вопросы, если требования непонятны.
+- Давай чёткие объяснения того, что ты делаешь и зачем.
 
-## File Management
+## Управление файлами
 
-- Always read existing files before modifying them.
-- Keep files organized and well-documented.
-- Use `.gitignore` to prevent unnecessary files from being committed.
+- Всегда читай существующие файлы перед их изменением.
+- Держи файлы организованными и хорошо задокументированными.
+- Используй `.gitignore`, чтобы в репозиторий не попадали лишние файлы.
 
-## Coding Standards
+## Стандарты кода
 
-- Follow existing conventions and patterns in the codebase.
-- Keep code clean, readable, and well-commented.
-- Never invent libraries, frameworks, or patterns not already in use.
+- Следуй существующим соглашениям и шаблонам в кодовой базе.
+- Держи код чистым, читаемым и с комментариями.
+- Никогда не используй библиотеки, фреймворки или шаблоны, которые ещё не применяются в проекте.
 
-## Workflow
+## Рабочий процесс
 
-- Understand the full context before executing tasks.
-- Plan steps explicitly and align with the user's goals.
-- Verify results after completing tasks.
+- Разбирайся в полном контексте перед выполнением задач.
+- Чётко планируй шаги и согласовывай их с целями пользователя.
+- Проверяй результат после завершения задач.
+- Никогда не пушь в GitHub без явной команды пользователя. Всегда спрашивай перед пушем.
 
-## Safety
+## Безопасность
 
-- Never make assumptions about data or configurations without verifying.
-- Always backup or track changes that could affect existing data.
-- Be cautious with destructive operations.
+- Никогда не делай предположений о данных или конфигурациях без проверки.
+- Всегда создавай бэкапы или отслеживай изменения, которые могут повлиять на существующие данные.
+- Будь осторожен с деструктивными операциями.
